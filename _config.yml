@@ -27,7 +27,7 @@ copyright:
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 paginate: 6
 paginate_path: /page:num/
 

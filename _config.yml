@@ -37,13 +37,13 @@ analytics:
 # Comments
 disqus-shortname: 
 
-#social
-facebook: 
-quora: 
+# Social
+#facebook: 
+#quora: 
 twitter: http://twitter.com/@washimi
 github: http://github.com/washimi
 
-#facebook like box
+# Facebook like box
 fb-app-id: 
 fb-page-url: 
 fb-page-title: 

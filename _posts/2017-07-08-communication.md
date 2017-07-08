@@ -12,8 +12,6 @@ img: pakutaso/LGTM_honwaka430.jpg
 
 ## LGTM
 
-[![LGTM](https://www.pakutaso.net/lgtm/LGTM_honwaka430.jpg)]
-
 Pull request 等で非同期にコードレビューを行うようになって、レビューが OK だった時に LGTM という単語を使うようになりました。
 
 LGTM は Looks good to me の略で、良さそうだね！、問題ないね！といったニュアンスで使われる感じで、レビュー自体は真剣にやっているものの、この比較的緩いコミュニケーションは心地よいです。たまにマサカリが飛んでくることもありますが。。

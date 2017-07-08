@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Communication
-img: palutaso/LGTM_honwaka430.jpg
+img: pakutaso/LGTM_honwaka430.jpg
 ---
 
 エンジニアリングする上で、対面でのコミュニケーションは必要最低限にし、Slack のようなチャットツールを利用すると、やりたいことに集中できるし、それぞれの時間を拘束することもなく効率的になります。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Communication
-img: https://www.pakutaso.net/lgtm/LGTM_honwaka430.jpg
+img: palutaso/LGTM_honwaka430.jpg
 ---
 
 エンジニアリングする上で、対面でのコミュニケーションは必要最低限にし、Slack のようなチャットツールを利用すると、やりたいことに集中できるし、それぞれの時間を拘束することもなく効率的になります。
@@ -11,6 +11,8 @@ img: https://www.pakutaso.net/lgtm/LGTM_honwaka430.jpg
 また 6 人で 1 時間の打ち合わせの場合、6 人時もかかるわけですが、こういったコスト面の意識もしたいものです。
 
 ## LGTM
+
+[![LGTM](https://www.pakutaso.net/lgtm/LGTM_honwaka430.jpg)]
 
 Pull request 等で非同期にコードレビューを行うようになって、レビューが OK だった時に LGTM という単語を使うようになりました。
 

@@ -32,7 +32,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: 
+analytics: UA-102308654-1
 
 # Comments
 disqus-shortname: 

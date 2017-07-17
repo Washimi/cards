@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Profile
+## Profile
 
 Koichi Washimi
